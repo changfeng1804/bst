@@ -51,7 +51,8 @@ header {
 .card-gold { border-color: #ffd700; }
 .card-purple { border-color: #a020f0; }
 .card-blue { border-color: #00ced1; }
-
+.card-red { border-color: #B8424C;}
+.card-green { border-color: #89BF8D;}
 
 .btn {
     display: inline-block;
@@ -128,5 +129,6 @@ header {
 .welcome {
     white-space: nowrap;
 }
+
 
 

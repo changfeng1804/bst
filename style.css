@@ -126,6 +126,10 @@ header {
     white-space: nowrap;
 }
 
+.copyright {
+    font-size: 0.9rem !important;
+    margin-top: 20px;
+    opacity: 0.6 !important;
 
 
 

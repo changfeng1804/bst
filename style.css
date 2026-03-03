@@ -44,6 +44,7 @@ header {
 .card-red { border-color: #B8424C;}
 .card-green { border-color: #89BF8D;}
 .card-white { border-color: #FFFFFF;}
+
 .btn {
     display: inline-block;
     margin-top: 15px;
@@ -108,4 +109,5 @@ header {
     margin-top: 20px;
     opacity: 0.6 !important;
 }
+
 
